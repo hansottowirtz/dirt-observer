@@ -1,0 +1,48 @@
+[21:58:02] [Server thread/INFO]: CloudDust01 left the game
+[21:58:29] [User Authenticator #25/INFO]: UUID of player CloudDust01 is 42d77324-90b6-4217-aa5c-ef64f47ee795
+[21:58:29] [Server thread/INFO]: CloudDust01[/81.242.56.120:52268] logged in with entity id 267044 at (155.76553810488392, 64.0, 196.95022090598187)
+[21:58:29] [Server thread/INFO]: CloudDust01 joined the game
+[22:01:37] [Server thread/WARN]: The_Black_Stone moved wrongly!
+[22:04:55] [Server thread/WARN]: The_Black_Stone moved wrongly!
+[22:15:06] [Server thread/INFO]: CloudDust01 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:15:06] [Server thread/INFO]: CloudDust01 left the game
+[22:15:08] [Server thread/INFO]: Le_1337_Dong lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:15:08] [Server thread/INFO]: Le_1337_Dong left the game
+[22:15:22] [User Authenticator #26/INFO]: UUID of player Le_1337_Dong is 3020be51-c2d9-468b-82ff-768c509ca742
+[22:15:22] [Server thread/INFO]: Le_1337_Dong[/109.128.46.226:51227] logged in with entity id 294382 at (158.55321548746647, 69.0, 309.69999998807907)
+[22:15:22] [Server thread/INFO]: Le_1337_Dong joined the game
+[22:16:00] [User Authenticator #27/INFO]: UUID of player CloudDust01 is 42d77324-90b6-4217-aa5c-ef64f47ee795
+[22:16:00] [Server thread/INFO]: CloudDust01[/81.242.56.120:52399] logged in with entity id 296121 at (148.4416755795848, 68.0, 203.3939562232702)
+[22:16:00] [Server thread/INFO]: CloudDust01 joined the game
+[22:17:30] [Server thread/INFO]: The_Black_Stone lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:17:30] [Server thread/INFO]: The_Black_Stone left the game
+[22:17:32] [Server thread/INFO]: Le_1337_Dong lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:17:32] [Server thread/INFO]: Le_1337_Dong left the game
+[22:18:45] [Server thread/INFO]: CloudDust01 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:18:45] [Server thread/INFO]: CloudDust01 left the game
+[10:33:58] [Server thread/INFO]: xprise[/84.196.205.147:55713] logged in with entity id 313328 at (194.2885650224215, 68.0, 236.46224880038667)
+[10:33:58] [Server thread/INFO]: xprise joined the game
+[10:34:01] [Server thread/INFO]: <The_Black_Stone> juuu
+[10:34:01] [Server thread/INFO]: <xprise> oi
+[10:34:02] [Server thread/INFO]: <CloudDust01> ay lmaooo
+[10:34:16] [Server thread/INFO]: <xprise> wie heeft al uwe redstone xd
+[10:34:19] [Server thread/INFO]: <The_Black_Stone> sep
+[10:38:07] [Server thread/INFO]: <xprise> of van seppe
+[10:38:07] [Server thread/INFO]: <The_Black_Stone> nee
+[10:38:10] [Server thread/INFO]: <The_Black_Stone> ban sep
+[10:38:13] [Server thread/INFO]: <The_Black_Stone> van*
+[10:38:14] [Server thread/INFO]: <xprise> smoi
+[10:38:15] [Server thread/INFO]: <The_Black_Stone> xD
+[10:38:20] [Server thread/INFO]: <CloudDust01> brb
+[10:38:22] [Server thread/INFO]: <xprise> straks
+[10:38:22] [Server thread/INFO]: CloudDust01 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[10:38:22] [Server thread/INFO]: CloudDust01 left the game
+[10:38:25] [Server thread/INFO]: <xprise> was mooi
+[10:38:31] [Server thread/INFO]: <xprise> ik zen nog is weg
+[10:38:33] [Server thread/INFO]: <xprise> yu
+[10:38:34] [Server thread/INFO]: <The_Black_Stone> da cribke int midden van
+[10:38:36] [Server thread/INFO]: <The_Black_Stone> ju
+[10:38:41] [Server thread/INFO]: <xprise> lel
+[10:38:42] [Server thread/INFO]: xprise lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[10:38:42] [Server thread/INFO]: xprise left the game
+[22:36:21] [Server thread/INFO]: xprise[/127.0.0.1:55542] logged in with entity id 207 at (142.21363464372072, 65.26595210221343, 197.69999998807907)

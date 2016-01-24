@@ -1,0 +1,1 @@
+[15:23:56] [Server thread/INFO]: Starting minecraft server version 1.8.9

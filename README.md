@@ -1,28 +1,32 @@
 # MinecraftBridge
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/minecraft_bridge`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Bridging the gap between Minecraft and Ruby.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'minecraft_bridge'
+gem 'minecraft-bridge', github: 'hansottowirtz/minecraft-bridge'
 ```
 
 And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install minecraft_bridge
-
 ## Usage
 
-TODO: Write usage instructions here
+MinecraftBridge provides a way to monitor a Minecraft server. It has two ways: via the console or via the NBT files.
+```ruby
+server = MinecraftBridge::Server.new('/path/to/minecraft_server.jar')
+server.start
+server.stop
+```
+#### Console
+MinecraftBridge creates a pseudoterminal in which it monitors the console.
+It scans the messages for known patterns and highlights specialties.
+#### NBT
+Working with the NBT gem
 
 ## Development
 
@@ -32,10 +36,9 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/minecraft_bridge. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/hansottowirtz/minecraft_bridge. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](contributor-covenant.org) code of conduct.
 
 
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
