@@ -46,3 +46,17 @@
 [10:38:42] [Server thread/INFO]: xprise lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
 [10:38:42] [Server thread/INFO]: xprise left the game
 [22:36:21] [Server thread/INFO]: xprise[/127.0.0.1:55542] logged in with entity id 207 at (142.21363464372072, 65.26595210221343, 197.69999998807907)
+[23:55:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 39115ms behind, skipping 782 tick(s)
+[00:12:48] [Server thread/WARN]: Time ran backwards! Did the system time change?
+[00:57:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2496692ms behind, skipping 49933 tick(s)
+[01:51:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3234906ms behind, skipping 64698 tick(s)
+[02:45:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3234896ms behind, skipping 64697 tick(s)
+[02:45:33] [Server thread/WARN]: Time ran backwards! Did the system time change?
+[03:15:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 1813810ms behind, skipping 36276 tick(s)
+[04:09:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3236963ms behind, skipping 64739 tick(s)
+[04:09:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2315ms behind, skipping 46 tick(s)
+[05:04:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2946421ms behind, skipping 58928 tick(s)
+[05:04:37] [Server Watchdog/FATAL]: A single server tick took 2946,44 seconds (should be max 0,05)
+[05:04:37] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[05:04:38] [Server Watchdog/ERROR]: This crash report has been saved to: /Users/Otto/Programming/Minecraft/how-minecraft/./crash-reports/crash-2016-01-25_05.04.38-server.txt
+[05:04:38] [Server Shutdown Thread/INFO]: Stopping server

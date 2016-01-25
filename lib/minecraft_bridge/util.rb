@@ -9,16 +9,18 @@ module MinecraftBridge
       zip.close if zip
     end
 
-    def self.valid_minecraft_jar?(file)
+    def self.get_server_type(file)
       zip = Zip::File.new(file)
       contents = zip.read('META-INF/MANIFEST.MF')
       if contents.include? 'net.minecraft.server'
-        true
+        return true, MinecraftBridge::VanillaServer
+      elsif contents.include? 'org.bukkit.craftbukkit.Main'
+        return true, MinecraftBridge::SpigotServer
       else
-        return 'Valid jar, no valid manifest'
+        return false, 'Valid jar, no valid manifest'
       end
     rescue StandardError => e
-      return "Couldn't open jar: #{e}"
+      return false, "Couldn't open jar: #{e}"
     ensure
       zip.close if zip
     end
@@ -27,5 +29,13 @@ module MinecraftBridge
       return PTY.check(pid).nil? # true if alive
     end
 
+    def self.select_regex(text, regexes)
+      regexes.each do |regex|
+        if text =~ regex
+          return regex
+        end
+      end
+      return nil
+    end
   end
 end
